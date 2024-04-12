@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_home">
+
+    <fragment
+        android:id="@+id/navigation_home"
+        android:name="pe.edu.idat.sebastiananticona.ui.mangas.MangasFragment"
+        android:label="@string/title_mangas"
+        tools:layout="@layout/fragment_mangas" />
+
+    <fragment
+        android:id="@+id/navigation_dashboard"
+        android:name="pe.edu.idat.sebastiananticona.ui.waifus.WaifusFragment"
+        android:label="@string/title_waifus"
+        tools:layout="@layout/fragment_waifus" />
+
+    <fragment
+        android:id="@+id/navigation_notifications"
+        android:name="pe.edu.idat.sebastiananticona.ui.information.InformationFragment"
+        android:label="@string/title_informacion"
+        tools:layout="@layout/fragment_information" />
+</navigation>

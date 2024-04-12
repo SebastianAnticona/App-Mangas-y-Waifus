@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_home"
+        android:icon="@drawable/backlog"
+        android:title="@string/title_mangas" />
+
+    <item
+        android:id="@+id/navigation_dashboard"
+        android:icon="@drawable/girl"
+        android:title="@string/title_waifus" />
+
+    <item
+        android:id="@+id/navigation_notifications"
+        android:icon="@drawable/information"
+        android:title="@string/title_informacion" />
+
+</menu>

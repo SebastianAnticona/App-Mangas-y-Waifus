@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Mangas y Waifus</string>
+    <string name="title_activity_navigation_bar">NavigationBar</string>
+    <string name="title_mangas">Mangas</string>
+    <string name="title_waifus">Waifus</string>
+    <string name="title_informacion">Información</string>
+    <string name="CLIENT_ID">292789783485-la9989950i3hkv2auvv86dv4lhldcfs7.apps.googleusercontent.com</string>
+</resources>

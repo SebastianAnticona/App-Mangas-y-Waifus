@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="viridian">#5B8266</color>
+    <color name="feldgrau">#3E6259</color>
+    <color name="brunswick_green">#294936</color>
+    <color name="celadon">#AEF6C7</color>
+    <color name="black_olive">#212922</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+</resources>

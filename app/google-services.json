@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "292789783485",
+    "project_id": "appexamenfi",
+    "storage_bucket": "appexamenfi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292789783485:android:df7a4565da8fe7894160d4",
+        "android_client_info": {
+          "package_name": "pe.edu.idat.sebastiananticona"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292789783485-uee628kbu6phek6ofp42e5cmobkahngc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCyP9vILxUSvK2MppUQxMTunSEhJiBf9AQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292789783485-uee628kbu6phek6ofp42e5cmobkahngc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
